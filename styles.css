@@ -1,0 +1,31 @@
+main{
+  font-family: Verdana;
+  padding: 100px;
+}
+
+p,h4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+img{
+  width: 140px;
+  border-radius: 50%;
+  
+}
+
+.business-card{
+  display: flex;
+  justify-content: space-around;
+  width: 350px;
+  padding: 40px;
+  margin: auto;
+  background: lightblue;
+  color: #2b2839;
+  border: 6px solid #a796eb;
+  text-align: center;
+}
+
+.business-card__info p{
+  margin-bottom: 10px;
+}
